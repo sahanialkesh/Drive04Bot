@@ -1,6 +1,5 @@
 from os import link
 from telethon import Button
-in <module> from configs import Config
 from pyrogram import Client, idle
 import asyncio
 from telethon import TelegramClient
